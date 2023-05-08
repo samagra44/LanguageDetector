@@ -4,7 +4,7 @@ The task of language detection comes into use when you are working on a very lar
 
 If you have never used this package before then you can easily install it by using the pip command -  pip install langdetect.
 
-#input: Enter any text in any language: Salut, je suis Aman Kharwal, j'espère que vous allez très bien.
+#input: Enter any text in any language: Salut, je suis Samagra Shrivastava, j'espère que vous allez très bien.
 
 #output: fr (French Language)
 
